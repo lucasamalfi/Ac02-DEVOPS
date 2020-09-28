@@ -1,2 +1,2 @@
 # Devops-aula05
-AC02
+AC02 Lucas Amalfi
