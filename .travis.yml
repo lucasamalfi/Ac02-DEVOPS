@@ -1,6 +1,6 @@
 language: python
 python:
-  -"2.7.18rci"
+  -"3.4"
 script:
   - cd src; python testes.py
   
